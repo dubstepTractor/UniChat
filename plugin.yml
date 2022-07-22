@@ -1,0 +1,7 @@
+name: UniChat
+main: uni\chat\Manager
+version: 1.0.0
+api:
+- 3.0.0
+
+author: Alexander

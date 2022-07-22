@@ -1,0 +1,12 @@
+#
+# DESC.
+#
+chat_filter_enabled: true
+sign_filter_enabled: true
+
+#
+# DESC.
+#
+local_chat_enabled: true
+char_local: '§7L'
+char_global: 'G'
